@@ -1,0 +1,39 @@
+h1{
+    color:#FF0000;
+}
+*{
+    border:solid
+}
+.header{
+    background-color:#00FF00;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color:#AAAA00;
+}
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#0000FF;
+}
+.platforms{
+    display: flex;
+    justify-content: last baseline;
+    background-color:#43804A;
+}
+.items{
+    display: flex;
+    border-color:#ADDADD;
+    background-color:#DDADAD;
+}
+.socialMedia{
+    display: flex;
+    box-shadow:#DDDD00;
+    border-style: outset;
+    background-color:#00DEDE;
+}
+
+body{
+    background-color:#808080
+}
